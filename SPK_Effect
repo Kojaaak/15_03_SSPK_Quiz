@@ -2,15 +2,15 @@
   "characters": [
     {
       "name": "Character1",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character2",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character3",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character4",
