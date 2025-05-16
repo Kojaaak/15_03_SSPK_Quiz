@@ -2,7 +2,7 @@
     {
         "id": "button1",
         "url": "https://kdata1.com/2025/05/sprunki-parodybox-wenda-treatment/",
-        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Clicker.png",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunki_Parodybox%20wenda.PNG",
         "title": "Sprunki Paradybox Wenda"
     },
     {
@@ -32,19 +32,19 @@
  {
         "id": "button6",
         "url": "https://kdata1.com/2025/05/parasprunki-phase-4/",
-        "image": "https://raw.githubusercontent.com/Kojaaak/1_WebviewPortrait/refs/heads/main/Megalovania.PNG",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Parasprunki%20phase%204.PNG",
         "title": "Parasprunki Phase 4"
     },
  {
         "id": "button7",
         "url": "https://kdata1.com/2025/03/sprunki-phase-6-alive/",
-        "image": "https://raw.githubusercontent.com/Kojaaak/1_WebviewPortrait/refs/heads/main/Megalovania.PNG",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Sprunki%20Phase%206.PNG",
         "title": "Sprunki Phase 6"
     },
  {
         "id": "button8",
         "url": "https://kdata1.com/2025/03/melophobia-x-sprunki/",
-        "image": "https://raw.githubusercontent.com/Kojaaak/1_WebviewPortrait/refs/heads/main/Megalovania.PNG",
+        "image": "https://raw.githubusercontent.com/Kojaaak/WVData/refs/heads/main/Melophobia.png",
         "title": "Sprunki Melophobia"
     }
 ]
